@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(219, 116, 116);
+}
+
+*{
+    color: aliceblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 75px;
+    border: solid red 2px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: rgb(88, 40, 40);
+}
+img{
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+.list{
+    color: aqua;
+    background-color: rgb(173, 60, 45);
+}
+a{
+    color: rgb(235, 241, 205);
+}
